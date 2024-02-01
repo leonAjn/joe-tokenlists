@@ -2016,6 +2016,15 @@
       "symbol": "APOW",
       "tags": ["DeFi", "Meme"],
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7F9C841FEAdDdB4bdBB2A161cA40bEbc4F215a9A/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x617a4eDFCeC09864Ca9d052ebcBAB67da273F4D4",
+      "decimals": 18,
+      "name": "AvalancheRecruitmentAgency",
+      "symbol": "CHECK",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x617a4eDFCeC09864Ca9d052ebcBAB67da273F4D4/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
